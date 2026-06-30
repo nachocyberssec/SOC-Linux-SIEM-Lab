@@ -1,4 +1,4 @@
-# SOC-Linux-Hardening-Lab
+# SOC-Linux-SIEM-Lab
 
 Practical lab for SIEM pipeline troubleshooting, SSH brute-force attack detection, and SOC log analysis.
 
